@@ -1,20 +1,3 @@
-//
-//  p13904.cpp
-//  OnlineJudge-c++
-//
-//  Created by 심근웅 on 2021/03/11.
-//
-/*
- 7
- 4 60
- 4 40
- 1 20
- 2 50
- 3 30
- 4 10
- 6 5
- -> 185
- */
 #include <stdio.h>
 #include <iostream>
 #include <algorithm>
